@@ -1,0 +1,6 @@
+command prompt 
+cd for checking current directory
+dir for checking folders in current directory
+cd with neccesary folder name moves to that directory(you can hit tab for quick names of folders)
+cd .. to go above one directory
+cls for clearing everything
